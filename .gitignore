@@ -3,4 +3,6 @@ data/test.csv
 data/train.csv
 predictions/
 supplement/
-
+scripts/sketches.ipynb
+scripts/model_basic.ipynb
+scripts/model_first.ipynb
