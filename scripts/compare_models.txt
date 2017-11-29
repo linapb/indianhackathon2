@@ -1,0 +1,17 @@
+#baseline
+Mean of lifts 	 	=  0.672219853825
+Variation of lifts 	=  0.003723273066044559
+
+#add zip1, zip2
+Mean of lifts 	 	=  0.672048091478
+
+#add zip1, zip2; delete zip, city
+Mean of lifts 	 	=  0.672029253646
+
+#Delete constant features
+Mean of lifts 	 	= 0.6729121546228299
+Variation of lifts 	= 0.0037822706626301685
+
+#Delete constant features and 'city', 'zip', 'Req_Resolved_PrevQ1', 'Query_Resolved_PrevQ1', 'Complaint_Resolved_PrevQ1'
+Mean of lifts 	 	= 0.6738945582265992
+Variation of lifts 	= 0.0037726078532773614
