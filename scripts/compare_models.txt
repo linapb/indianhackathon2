@@ -15,3 +15,7 @@ Variation of lifts 	= 0.0037822706626301685
 #Delete constant features and 'city', 'zip', 'Req_Resolved_PrevQ1', 'Query_Resolved_PrevQ1', 'Complaint_Resolved_PrevQ1'
 Mean of lifts 	 	= 0.6738945582265992
 Variation of lifts 	= 0.0037726078532773614
+
+#
+Mean of lifts 	 	= 0.6319795950903686
+Variation of lifts 	= 0.0029266365300061863
